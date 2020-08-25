@@ -1,5 +1,5 @@
 # Online-Archieve-Manager
-Manage Archieve Files(rar,zip,7zip,etc,...) online 
+Manage Archieve Files (rar, zip, 7zip, etc,...) online 
 
 You can do things like 
 
@@ -9,4 +9,6 @@ Deleting
 
 High Compressing
 
-Copy to Drive,etc,...
+Copy to Drive
+
+etc,...
