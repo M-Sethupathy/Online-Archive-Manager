@@ -1,4 +1,4 @@
-# Online-Archieve-Manager
+# Online-Archive-Manager
 Manage Archieve Files (rar, zip, 7zip, etc,...) online 
 
 You can do things like 
